@@ -1,0 +1,93 @@
+
+body{
+	background-color:;
+}
+header{
+	width:200px;
+	height: 70px;
+	background-color: #766FD2;
+	margin-bottom: 10px;
+	margin-left:auto;
+    margin-right:auto;
+}
+#name{
+	color: white;
+	text-align: center;
+	padding-top: 15px;
+	margin-left:auto;
+    margin-right:auto;
+}
+.paragraph{
+	width: 350px;
+	height:370px;
+	background-color: #EBD0B9;
+	margin-bottom: 10px;
+	margin-left:auto;
+    margin-right:auto;
+
+}
+ .crystals {
+ 	margin-left:auto;
+ 	margin-right:auto;
+ }
+
+p{
+	color: green;
+	padding: 5px;
+	margin-left:auto;
+    margin-right:auto;
+}
+.start{
+	height:105px;
+    width:300px;
+    display: inline-block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.total{
+	width:150px;
+	height: 90px;
+	background-color: #49E692;
+	margin-right: 10px;
+	font-size: 30px;
+	color:#8A358F;
+	margin-left:auto;
+    margin-right:auto;
+
+}
+.result{
+	width:100px;
+	height: 100px;
+	background-color: #49E6D6;
+	margin-left: 160px;
+	margin-top:-90px;
+}
+.click{
+	width:80px;
+	height:80px;
+	margin-left:auto;
+    margin-right:auto;
+}
+.score{
+	width: 180px;
+	height:30px;
+	background-color: #766FD2;
+	margin-bottom: 10px;
+	margin-left:auto;
+    margin-right:auto;
+}
+h5{
+	color: white;
+	padding-top: 7px;
+	margin-left:auto;
+    margin-right:auto;
+}
+.addition{
+	width:180px;
+	height:90px;
+	background-color: #766FD2;
+	font-size: 30px;
+	color: white;
+	margin-left:auto;
+    margin-right:auto;
+}
